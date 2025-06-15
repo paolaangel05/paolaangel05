@@ -1,4 +1,6 @@
 
+[![author](https://img.shields.io/badge/author-Paola_Silva-red.svg)]([https://www.linkedin.com/in/paolaufsj/]([https://www.linkedin.com/in/paolaufsj/](https://www.linkedin.com/in/paolaufsj/))) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+
 ![banner_p](./paola_cientista_computacao.png)
 
 # Paola Angélica Silva
@@ -14,10 +16,15 @@ Hoje, dedico-me à area de **Ciência de Dados**, utilizando a linguagem Python 
 
 Principais projetos desenvolvidos por mim na área de Ciência de Dados:
 
-- **[Análise de preços no Airbnb]**
+- **[Análise de dados da cidade de Veneza - Airbnb]** - Será postado em breve
 
 > **Nota:** Em breve serão adicionados novos projetos...
-> 
+
+## Estudos:
+
+Espaço para divulgar os notebooks desenvolvidos ao longo dos meus estudos na área de Estatística e Otimização para Ciência de Dados:
+
+- **[Distribuição de probabilidades](https://github.com/paolaangel05/distribuicao_probab)**
 
 ## Contato:
 
