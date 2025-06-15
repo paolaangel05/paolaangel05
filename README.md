@@ -1,5 +1,5 @@
 
-![banner_p](https://github.com/paolaangel05/data_science_/assets/104911878/3f8a1be6-d391-4de3-86a0-b45485e0e74e)
+![banner_p](./paola_cientista_computacao.png)
 
 # Paola Angélica Silva
 <sub>*Bacharela* em Ciência da Computação</sub>
