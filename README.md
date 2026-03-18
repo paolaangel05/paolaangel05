@@ -15,9 +15,9 @@ Hoje, dedico-me à area de **Ciência de Dados**, utilizando a linguagem Python 
 
 Em **2026**, ingressei no curso de Bacharelado em Matemática na UFSJ, dando continuidade à minha formação teórica e aprofundando minha base matemática aplicada.
 
-Atualmente, atuo como**pesquisadora da FAPEMIG** em um projeto alinhado ao INCT, voltado ao combate à fome, no qual aplico técnicas de análise de dados para apoiar a investigação, interpretação e geração de insights relevantes para políticas públicas e ações sociais.
+Atualmente, atuo como **pesquisadora da FAPEMIG** em um projeto alinhado ao INCT, voltado ao combate à fome, e também estou trabalhando em um projeto do CadUnico, no qual aplico técnicas de análise de dados para apoiar a investigação, interpretação e geração de insights relevantes para políticas públicas e ações sociais.
 
-## Projetos:
+## Projetos pessoais:
 
 Alguns projetos desenvolvidos por mim na área de Ciência de Dados:
 
